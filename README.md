@@ -6,3 +6,4 @@
     tensorflow不支持调用gpu
     不然嘎嘎快
     学习到越后面发现loss函数的降低越来越慢
+    kaggle上得分为0.977
